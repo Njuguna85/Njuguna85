@@ -1,7 +1,7 @@
-<h1 align="center">I'm <a href="https://github.com/Njuguna85">Dennis Njuguna<a><img src="https://github.com/Njuguna85/Njuguna85/img/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Njuguna85">Dennis Njuguna<a><img src="https://github.com/Njuguna85/Njuguna85/blob/main/img/wave.gif" width="60px"/></h1>
 <Br>
 
-#### I'm a Full-Stack Developer working in Nairobi, Kenya.
+<h2> I'm a Full-Stack Developer working in Nairobi, Kenya. </h2>
 
 <h1>About Me! 😎</h1>
 
