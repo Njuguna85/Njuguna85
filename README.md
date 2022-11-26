@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me:  <SCRIPT LANGUAGE="JavaScript">user = 'njuguna.dennis85';site = 'gmail.com';document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</SCRIPT>
+- 📫 How to reach me: **<a href="mailto:njuguna.dennis85@gmail.com">Send Mail</a>**
 
  
 <Br>
