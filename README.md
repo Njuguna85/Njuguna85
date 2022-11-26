@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">I'm <a href="https://github.com/Njuguna85">Dennis Njuguna<a><img src="https://github.com/Njuguna85/Njuguna85/img/wave.gif" width="60px"/></h1>
+<Br>
 
-<!--
-**Njuguna85/Njuguna85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+<h1>About Me! 😎</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on a Out Of Home Media Managment System.
+
+- 🌱 I’m currently learning Elixir and Phoenix
+
+- 🤔 I’m looking for help with **Phoenix**
+
+- ⚙️ I use daily: `.js`, `.vue`, `.css`, `.sql`
+
+- 💬 Ask me about **Node.js, PosGIS & Vuejs**
+
+- 💬 Ping me about  **Web App Development**, **Location Intelligence**, **GIS**,
+
+- 🤝 I’m available for freelancing.
+
+- 📫 How to reach me: **njuguna.dennis85@gmail.com**
+
+ 
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
+
+------
+
+Last Edited on: 26/11/2022
+
