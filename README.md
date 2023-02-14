@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Elixir and Phoenix
 
-- 🤔 I’m looking for help with **Phoenix**
+- 🤔 I’m looking for help with **Phoenix Web Framework**
 
 - ⚙️ I use daily: `.js`, `.vue`, `.css`, `.sql`
 
