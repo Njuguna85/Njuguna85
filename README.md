@@ -5,19 +5,15 @@
 
 <h1>About Me! 😎</h1>
 
-- 🔭 I am currently working on a Out Of Home Media Managment System.
-
-- 🌱 I’m currently learning Elixir and Phoenix
+- 🌱 I’m currently learning Phoenix LiveView
 
 - 🤔 I’m looking for help with **Phoenix Web Framework**
 
-- ⚙️ I use daily: `.js`, `.vue`, `.css`, `.sql`
+- ⚙️ I use daily: `.js`, `.vue`, `.css`, `.sql`, `.ex`, `.heex`, `.eex`
 
-- 💬 Ask me about **Node.js, PosGIS & Vuejs**
+- 💬 Ask me about **Js, PostreSQL, Elixir,  GIS & Vuejs**
 
-- 💬 Ping me about  **Web App Development**, **Location Intelligence**, **GIS**,
-
-- 🤝 I’m available for freelancing.
+- 💬 Ping me about  **Software Development**, and **GIS**,
 
 - 📫 How to reach me: **<a href="mailto:njuguna.dennis85@gmail.com">Send Mail</a>**
 
