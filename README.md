@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning Phoenix LiveView
 
-- 🤔 I’m looking for help with **Phoenix Web Framework**
-
 - ⚙️ I use daily: `.js`, `.vue`, `.css`, `.sql`, `.ex`, `.heex`, `.eex`
 
 - 💬 Ask me about **Js, PostreSQL, Elixir,  GIS & Vuejs**
